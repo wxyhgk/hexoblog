@@ -95,8 +95,8 @@ c.NotebookApp.port =8888
 
 # 三 参考文章
 
-[折腾NAS 篇五：利用docker安装Jupyter交互式编程和笔记工具_服务软件_什么值得买](https://post.smzdm.com/p/az5expz0/)
+[1] [折腾NAS 篇五：利用docker安装Jupyter交互式编程和笔记工具_服务软件_什么值得买](https://post.smzdm.com/p/az5expz0/)
 
-[Synology 安裝jupyter-notebook](https://www.jianshu.com/p/042b7a0e2204)
+[2] [Synology 安裝jupyter-notebook](https://www.jianshu.com/p/042b7a0e2204)
 
-[远程运行jupyter notebook：密码登录和token登录_小白水手的博客-CSDN博客_jupyter notebook 登录](https://blog.csdn.net/ACBattle/article/details/89401165)
+[3] [远程运行jupyter notebook：密码登录和token登录_小白水手的博客-CSDN博客_jupyter notebook 登录](https://blog.csdn.net/ACBattle/article/details/89401165)
