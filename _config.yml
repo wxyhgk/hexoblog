@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 我心永恒的小站
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: 我心永恒
 language: zh-CN
 timezone: ''
 
@@ -102,4 +102,6 @@ theme: hexo-theme-fluid
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/wxyhgk/wxyhgk.github.io.git
+  branch: master
