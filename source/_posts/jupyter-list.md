@@ -597,9 +597,3 @@ np.unique(temp)
 
     array([1, 3, 4, 9])
 
-
-
-
-```python
-
-```
