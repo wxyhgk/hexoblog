@@ -8,7 +8,7 @@ title: stata教程(2)
 ---
 # 统计描述指标
 
-![Untitled](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221329761.png)
+![](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221329761.png)
 
 ## codebook 数据字典
 
@@ -29,7 +29,7 @@ codebook [varlist] [if] [in] [,options]
 
 我们来看看 price 这个变量的 codebook
 
-![Untitled](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221329762.png)
+![](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221329762.png)
 
 现在加上一个 if 逻辑判断，找出 price 大于 5000的数据
 
@@ -43,7 +43,7 @@ codebook [varlist] [if] [in] [,options]
 
 可以使用 help codebook 查看选项也就是 `codebook [varlist] [if] [in] [,options]`  中的 `option`
 
-![Untitled](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221329763.png)
+![](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221329763.png)
 
 虽然选项很多，但是一般不用，我们用 codebook 一般是对数据进行一个初步了解
 
@@ -57,18 +57,18 @@ codebook [varlist] [if] [in] [,options]
 
 来看看 price 的summarize
 
-![Untitled](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221329764.png)
+![](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221329764.png)
 
 对比codebook的结果
 
-![Untitled](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221329762.png)
+![](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221329762.png)
 
 似乎并没有什么区别，但是我们可以用 `help summarize` 看看
 
-![Untitled](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221329765.png)
+![](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221329765.png)
 
 这里有个 `detail`  选项，后面的解释是：可以显示额外的统计量，这个是比较关键的，所以我们在 stata 中试试这个
 
-![Untitled](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221329766.png)
+![](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221329766.png)
 
 从图中可以看到给出的信息更详细了

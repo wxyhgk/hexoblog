@@ -14,15 +14,15 @@ sysuse auto ,clear
 
 describe [varlist]
 
-![Untitled](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221328713.png)
+![](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221328713.png)
 
 describe short 
 
-![Untitled](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221328719.png)
+![](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221328719.png)
 
 describe price
 
-![Untitled](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221328720.png)
+![](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221328720.png)
 
 ## count
 
@@ -30,7 +30,7 @@ count
 
 count if
 
-![Untitled](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221328721.png)
+![](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221328721.png)
 
 ## isid（Is ID or not）
 
@@ -40,4 +40,4 @@ isid varlist
 
 首先用 ssc install unique 安装这个包，然后才能用
 
-![Untitled](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221328722.png)
+![](https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203221328722.png)
