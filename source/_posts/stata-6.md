@@ -171,5 +171,6 @@ graph matrix varlist [if] [in] [weight] [, options]
 
 
 这个是对称的，我们也可以只画一半，加一个参数 half
+`graph matrix price headroom mpg displacement,half`
 
 <img src="https://cdn.jsdelivr.net/gh/wxyhgk/paper-picture/202203261300246.png" style="zoom:50%;" />
